@@ -1,0 +1,27 @@
+.titulo{
+    text-align: center; 
+    font-size:25px; 
+    font-weight: bold;
+}
+.subtitulo ,.subtitulo1,.input-group-text, .form-label{
+    font-weight: bold;
+    
+}
+.subtitulo1{
+    font-size:20px; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.contato{
+    margin-left: 30px;
+}
+.subtitulo{
+margin-top: 20px;
+}
+.input-group-text, .form-control{
+    margin-top: 5px;
+}
+.form-label{
+    display: flex;
+    margin-top: 5px;
+}

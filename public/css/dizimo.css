@@ -1,0 +1,38 @@
+label{
+    font-weight: bold;
+}
+#subtitulo{
+    text-align: center; font-size: 25px; margin-bottom: 20px;font-weight: bold;
+    margin-top: 20px;
+}
+
+#number{
+    text-align: center;
+    font-size: 50px;
+}
+#adminT{
+    text-align: center; 
+    font-size:25px; 
+    font-weight: bold;
+}
+#espaco{
+    margin-top: 20px;
+}
+#search{
+    display: flex;
+    border-radius: 10px;
+    border-color: aqua;
+    justify-items: center;
+    float: right;
+    margin-right: 50px;
+
+}
+#voltar{
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+#addicionar{
+    display: block;
+    margin-top: 10px;
+}
