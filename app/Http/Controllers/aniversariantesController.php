@@ -12,9 +12,9 @@ class aniversariantesController extends Controller
     // Aniversariante
 
     public function aniversariante()
-    {
+    { 
         $aniversariantes = aniversariantes::all();
-        return view('/Aniversariantes/aniversariante', ['aniversariantes' => $aniversariantes]);
+        return view('/Aniversariantes/aniversariante', ['aniversariantes' => $aniversariantes]); 
     }
 
     // totalAniversariantes
